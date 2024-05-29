@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @xQyxuz
+- 👀 I’m interested for programmer
+- 🌱 I’m currently learning: lua, html, css and javascript
+- 💞️ I’m looking to collaborate on Servers in FiveM and Pages Webs
